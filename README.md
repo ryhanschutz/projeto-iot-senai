@@ -39,7 +39,7 @@ O projeto foi prototipado utilizando o simulador **Wokwi**.
 | **Resistor 10kΩ** | Pull-up do Sensor | Entre VCC e Data |
 
 ### 🔌 Esquema Elétrico
-![Esquema Elétrico Wokwi](https://ibb.co/23NBXJ3v)
+![Esquema Elétrico Wokwi](https://i.ibb.co/zVJwKdVX/65196570-57-BB-486-D-A1-BB-87-F530-A1-D3-A3.png)
 
 ---
 
@@ -84,7 +84,7 @@ Aplicação console desenvolvida para rodar no **GitHub Codespaces**. Utiliza a 
 Aqui estão as provas de funcionamento do sistema integrado:
 
 ### ✅ Teste de Conexão e Recebimento
-![Log do Console Java](https://ibb.co/B5tmr3fx)
+![Log do Console Java](https://i.ibb.co/nNbTnmwv/63055419-E9-F9-4-F2-C-A20-C-598-B744-C698-A.png)
 
 ---
 
