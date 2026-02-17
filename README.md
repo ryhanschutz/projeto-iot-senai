@@ -1,7 +1,6 @@
 # 🌡️ Sistema de Monitoramento Ambiental IoT (Farmacêutico)
 
 ![Banner do Projeto](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTZ3am54NnZpdWZ4NHNuZXJ5ZWZ2cTF6ZmhrcnZsdzg5NXM2bXV5NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5x4bARYgmAqKv2hMjM/giphy.gif)
-*(Substitua o link acima por uma imagem de capa legal do seu projeto ou um print do Wokwi)*
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -41,7 +40,6 @@ O projeto foi prototipado utilizando o simulador **Wokwi**.
 
 ### 🔌 Esquema Elétrico
 ![Esquema Elétrico Wokwi](https://ibb.co/23NBXJ3v)
-*(Coloque aqui o print das conexões no Wokwi)*
 
 ---
 
@@ -87,7 +85,6 @@ Aqui estão as provas de funcionamento do sistema integrado:
 
 ### ✅ Teste de Conexão e Recebimento
 ![Log do Console Java](https://ibb.co/B5tmr3fx)
-*(Print do terminal do Codespaces mostrando: "Temperatura: 40.5C")*
 
 ---
 
