@@ -1,4 +1,4 @@
-# 🌡️ Sistema de Monitoramento Ambiental IoT (Farmacêutico)
+# 🌡️ Sistema de Monitoramento Ambiental IoT
 
 ![Banner do Projeto](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTZ3am54NnZpdWZ4NHNuZXJ5ZWZ2cTF6ZmhrcnZsdzg5NXM2bXV5NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5x4bARYgmAqKv2hMjM/giphy.gif)
 
